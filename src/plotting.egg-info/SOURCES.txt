@@ -1,0 +1,6 @@
+pyproject.toml
+src/plotting.py
+src/plotting.egg-info/PKG-INFO
+src/plotting.egg-info/SOURCES.txt
+src/plotting.egg-info/dependency_links.txt
+src/plotting.egg-info/top_level.txt
